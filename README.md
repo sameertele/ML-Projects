@@ -19,10 +19,5 @@ This project contains two key files:
 
 ## **Datasets Used**
 
-- **KNN Implementation**: Three different datasets: Car Dataset, Hayes Roth Dataset and Breast Cancer Dataset
+- **KNN Implementation**: Three different datasets: Car Dataset, Hayes Roth Dataset and Breast Cancer Dataset.
 - **LeNet-5**: The **[MNIST dataset](http://yann.lecun.com/exdb/mnist/)** containing 60,000 training images and 10,000 test images of handwritten digits (0-9).
-
-## **How to Run**
-
-1. Run the KNN implementation file to observe how KNN performs across different datasets and compare the custom implementation with Sklearn's KNN.
-2. Run the LeNet-5 architecture file to train and evaluate the CNN on the MNIST dataset.
